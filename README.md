@@ -1,24 +1,18 @@
-#include <iostream>
-using namespace std;
+#TugasPraktikum_Faishal Muhammad Farhan
+Nama : Faishal Muhammad Farhan
+NPM : 2310631170135
+Kelas : 1C - Informatika
+___________________________________________________________________________________________________________________
+Output :
+-------------------------------------------------------------------------------------------------------------------
+Nama saya : Faishal Muhammad Farhan
 
-void loopFunction(){
-    for (int i = 0; i < 115; ++i){
-            cout << "-";
-    }}
+NPM : 2310631170135
 
-int main(){
+Kelas : C - Informatika
 
-    loopFunction();
+Cita - Cita : Full Stack Dev
 
-    //ini pake <<endl buat bikin spasi/baris baru
-        cout <<"\nNama saya : Faishal Muhammad Farhan" <<endl <<endl;
-        cout <<"NPM : 2310631170135" <<endl<<endl;
-
-    //ini pake \n buat newline/garis baru
-        cout <<"Kelas : C - Informatika\n\n";
-        cout <<"Cita - Cita : Full Stack Dev\n\n";
-        cout <<"Motivasi masuk informatika : Pengen Kerja Remote\n";
-
-    loopFunction();
- return 0;
-}
+Motivasi masuk informatika : Pengen Kerja Remote
+-------------------------------------------------------------------------------------------------------------------
+maaf masih pemula...
