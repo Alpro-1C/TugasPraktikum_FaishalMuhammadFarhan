@@ -1,6 +1,7 @@
 #include <iostream>
 using namespace std;
 
+//buat looping "-"
 void loopFunction(){
     for (int i = 0; i < 115; ++i){
             cout << "-";
